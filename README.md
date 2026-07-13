@@ -17,7 +17,11 @@ Then search for **RE:Frame XIV** in the Dalamud Plugin Installer.
 ## Commands
 
 ```text
+/reframe
 /ref
+/ref edit
+/ref bars
+/ref keybinds
 ```
 
 Opens the RE:Frame configuration window.
