@@ -29,7 +29,10 @@ Opens the RE:Frame configuration window.
 
 ## Support and Feedback
 
-Issues and feedback can be submitted through the repository's Issues page.
+Issues and feedback can be submitted through the discord: 
+```text
+https://discord.gg/Dr836dmbqh
+```
 
 ## Author
 
