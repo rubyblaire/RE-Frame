@@ -2,7 +2,7 @@
   "Author": "Ruby Blaire",
   "Name": "RE:Frame XIV",
   "InternalName": "REFrameXIV",
-  "AssemblyVersion": "0.4.0.73",
+  "AssemblyVersion": "0.4.0.74",
   "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rubyblaire/REFrameXIV",
