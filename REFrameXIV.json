@@ -2,7 +2,7 @@
   "Author": "Ruby Blaire",
   "Name": "RE:Frame XIV",
   "InternalName": "REFrameXIV",
-  "AssemblyVersion": "0.4.0.74",
+  "AssemblyVersion": "0.4.0.76",
   "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rubyblaire/REFrameXIV",
@@ -18,9 +18,9 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
-    "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png"
+    "images/icon.png"
   ],
-  "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
+  "IconUrl": "images/icon.png",
   "Punchline": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
   "AcceptsFeedback": true
 }
