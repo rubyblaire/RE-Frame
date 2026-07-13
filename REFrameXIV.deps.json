@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "REFrameXIV/0.4.0.65": {
+        "runtime": {
+          "REFrameXIV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REFrameXIV/0.4.0.65": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
