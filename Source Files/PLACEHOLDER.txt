@@ -1,0 +1,3 @@
+Once things calm down and I'm not fixing something or adding something every 2 seconds then I'll upload the source files.
+
+Until then lots of changes will be made and I would rather not have someone fork something that's ultimately broken.
