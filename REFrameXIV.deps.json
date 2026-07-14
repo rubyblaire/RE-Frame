@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "REFrameXIV/0.5.0.2": {
+      "REFrameXIV/0.5.0.3": {
         "runtime": {
           "REFrameXIV.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "REFrameXIV/0.5.0.2": {
+    "REFrameXIV/0.5.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
