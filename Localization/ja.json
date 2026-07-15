@@ -171,5 +171,9 @@
   "theme.obsidianDeepGoldDarkGrey": "Hidden King",
   "theme.obsidianSteelBlueDarkGrey": "Night Sky",
   "theme.cottonCandy": "コットンキャンディ",
-  "theme.neonNights": "ネオンナイツ"
+  "theme.neonNights": "ネオンナイツ",
+  "hud.alliance.local_party": "自分のパーティ",
+  "hud.alliance.allied_party": "味方パーティ",
+  "hud.alliance.allied_party_one": "味方パーティ1",
+  "hud.alliance.allied_party_two": "味方パーティ2"
 }

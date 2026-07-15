@@ -171,5 +171,9 @@
   "theme.obsidianDeepGoldDarkGrey": "Hidden King",
   "theme.obsidianSteelBlueDarkGrey": "Night Sky",
   "theme.cottonCandy": "Zuckerwatte",
-  "theme.neonNights": "Neonnächte"
+  "theme.neonNights": "Neonnächte",
+  "hud.alliance.local_party": "EIGENE GRUPPE",
+  "hud.alliance.allied_party": "VERBÜNDETE GRUPPE",
+  "hud.alliance.allied_party_one": "VERBÜNDETE GRUPPE 1",
+  "hud.alliance.allied_party_two": "VERBÜNDETE GRUPPE 2"
 }

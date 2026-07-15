@@ -171,5 +171,9 @@
   "theme.obsidianDeepGoldDarkGrey": "Hidden King",
   "theme.obsidianSteelBlueDarkGrey": "Night Sky",
   "theme.cottonCandy": "Barbe à papa",
-  "theme.neonNights": "Nuits néon"
+  "theme.neonNights": "Nuits néon",
+  "hud.alliance.local_party": "VOTRE ÉQUIPE",
+  "hud.alliance.allied_party": "ÉQUIPE ALLIÉE",
+  "hud.alliance.allied_party_one": "ÉQUIPE ALLIÉE 1",
+  "hud.alliance.allied_party_two": "ÉQUIPE ALLIÉE 2"
 }
