@@ -2,8 +2,8 @@
   "Author": "Ruby Blaire",
   "Name": "RE:Frame XIV",
   "InternalName": "REFrameXIV",
-  "AssemblyVersion": "0.5.0.26",
-  "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
+  "AssemblyVersion": "0.5.1.24",
+  "Description": "A seamless adaptive replacement HUD for FFXIV with Discord-gated RE:Forge studios, custom themes, immersion controls, presentation tools, recoverable square navigation, and a standalone sidebar-driven RE:Forge studio.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
   "Tags": [
@@ -21,6 +21,6 @@
     "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
-  "Punchline": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
+  "Punchline": "An adaptive HUD UI. Your frame, your way. RE:Frame it — then RE:Forge it.",
   "AcceptsFeedback": true
 }

@@ -175,5 +175,7 @@
   "hud.alliance.local_party": "YOUR PARTY",
   "hud.alliance.allied_party": "ALLIED PARTY",
   "hud.alliance.allied_party_one": "ALLIED PARTY 1",
-  "hud.alliance.allied_party_two": "ALLIED PARTY 2"
+  "hud.alliance.allied_party_two": "ALLIED PARTY 2",
+  "main.nav.forge": "THE FORGE",
+  "main.header.forge": "The Forge"
 }
