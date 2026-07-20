@@ -1,0 +1,20 @@
+{
+  "Author": "Ruby Blaire",
+  "Name": "RE:Frame XIV",
+  "InternalName": "REFrameXIV",
+  "AssemblyVersion": "0.5.2.3",
+  "Punchline": "An adaptive HUD UI. Your frame, your way. RE:Frame it — then RE:Forge it.",
+  "Description": "A seamless adaptive replacement HUD for FFXIV with RE:Forge creative services, Cloud Vault and sync, plus the Forge+ motion, scene, Dancer, character, venue, scheduling, wheel, and roulette suite.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "UI",
+    "HUD",
+    "Accessibility",
+    "Quality of Life"
+  ],
+  "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
+  "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png"
+  ]
+}
