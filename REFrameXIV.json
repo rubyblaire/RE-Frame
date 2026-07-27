@@ -2,8 +2,8 @@
   "Author": "Ruby Blaire",
   "Name": "RE:Frame XIV",
   "InternalName": "REFrameXIV",
-  "AssemblyVersion": "0.5.2.9",
-  "Description": "A seamless adaptive replacement HUD for FFXIV with RE:Forge creative services, Cloud Vault and sync, plus the Forge+ motion, scene, Dancer, character, venue, scheduling, wheel, and roulette suite.",
+  "AssemblyVersion": "0.5.3.0",
+  "Description": "A seamless adaptive replacement HUD for FFXIV with RE:Forge creative services, Cloud Vault and sync, plus the Forge+ creative suite. Sends one disclosed anonymous activity ping per UTC month to estimate active installations.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
   "Tags": [
